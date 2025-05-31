@@ -1,5 +1,5 @@
 ```
-git clone https://github.com/gamerzhacker1/lpnodes
+git clone https://github.com/mrsdbdking-ff/lpnodes
 ```
 
 ```
@@ -11,5 +11,5 @@ docker build -t ubuntu-22.04-with-tmate .
 ```
 
 ```
-python3 lp.py
+python3 v2.py
 ```
